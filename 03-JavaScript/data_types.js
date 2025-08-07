@@ -3,6 +3,7 @@ let ->
 const ->
 var -> In the latest ECMAScript, it is not advisable to use var in variable declaration.
  */
+
 let name = "Super Mario";
 const age = 12;
 
